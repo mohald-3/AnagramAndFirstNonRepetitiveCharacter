@@ -8,5 +8,6 @@ namespace AnagramAndFirstNonRepetitiveCharacter
 {
     internal class FirstNonRepetitiveCharacter
     {
+
     }
 }
